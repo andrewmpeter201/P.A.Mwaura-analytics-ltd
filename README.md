@@ -46,4 +46,76 @@
     </footer>
     <script src="script.js"></script>
 </body>
-</html>A.Mwaura-analytics-ltd 
+</html>A.Mwaura-analytics-ltd  
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f9;
+}
+
+header {
+    background: linear-gradient(90deg, #333, #555);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header .motto {
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: #444;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background: #555;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #444;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    margin-top: 20px;
+}
